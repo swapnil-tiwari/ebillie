@@ -1,0 +1,41 @@
+body{
+  padding: 0px !important;
+}
+.header
+{
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 0px;
+  padding-bottom: 0px;
+	background-color: #171B17;
+  color: rgb(0, 123, 255);
+
+}
+.userbill
+{
+    margin-top:-10px;
+	margin-left:-60px;
+}
+#control_buttons
+{
+	margin-bottom: 40px;
+	margin-top: 30px;
+	padding:3px;
+	height: 38px;
+}
+.caption
+{
+	text-align: center;
+    text-decoration: none;
+    font-size: 42px;
+
+}
+.main
+{
+  margin-top:-8px;
+	min-height: 80px;
+	background-color: white;
+	text-align: left;
+
+
+}
